@@ -1,0 +1,9 @@
+{
+  "service": {
+    "name": "nginx",
+    "tags": ["primary"],
+    "address": "",
+    "port": 80,
+    "enableTagOverride": false
+  }
+}
